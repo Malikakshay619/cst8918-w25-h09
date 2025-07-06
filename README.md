@@ -109,5 +109,3 @@ This will remove all Azure resources to avoid additional charges.
 Akshay
 CST8918 - DevOps: Infrastructure as Code
 Professor Robert McKenney
-
-````
