@@ -111,10 +111,3 @@ CST8918 - DevOps: Infrastructure as Code
 Professor Robert McKenney
 
 ````
-
----
-
-✅ Paste this into `README.md`:  
-```bash
-nano README.md
-````
