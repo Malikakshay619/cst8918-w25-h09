@@ -1,7 +1,7 @@
 ```markdown
 # CST8918 - DevOps: Infrastructure as Code
 ## Hybrid-H09: Azure Kubernetes Service (AKS) Cluster with Terraform
-
+```
 ### 👨‍💻 Course Details
 - **Course**: CST8918 - DevOps: Infrastructure as Code
 - **Professor**: Robert McKenney
